@@ -11,8 +11,8 @@ The goal of this project is to perform data analytics on Uber data using various
 - Programming Language - Python
 
 Google Cloud Platform
-1. Google Storage
-2. Compute Instance 
+1. Google Storage - create bucket and upload date. give public access
+2. Compute Instance - create instance
 3. BigQuery
 4. Looker Studio
 
