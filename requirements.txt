@@ -1,0 +1,4 @@
+pandas
+python-box==6.0.2
+numpy
+joblib
