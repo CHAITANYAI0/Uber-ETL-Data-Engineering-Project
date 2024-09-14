@@ -12,7 +12,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 Google Cloud Platform
 1. Google Storage - create bucket and upload date. give public access
-2. Compute Instance - create instance
+2. Compute Instance - create instance, click on SSH to start an instance
 3. BigQuery
 4. Looker Studio
 
